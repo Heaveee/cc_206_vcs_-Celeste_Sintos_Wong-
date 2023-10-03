@@ -1,4 +1,4 @@
-//{Ariez Sintos}: ""
+//{Ariez Sintos}: "You Only Live Once"
 //{Alfie Celeste}: "Time is Gold"
 
 import 'package:flutter/material.dart';
