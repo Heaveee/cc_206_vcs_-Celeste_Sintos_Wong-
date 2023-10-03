@@ -1,6 +1,6 @@
 //{Ariez Sintos}: "You Only Live Once"
 //{Alfie Celeste}: "Time is Gold"
-
+//{Thea Joy Wong}: "There's a rainbow always after a rain."
 import 'package:flutter/material.dart';
 
 void main() {
